@@ -5,7 +5,7 @@ Statistics student at BYU (Data Science emphasis, minors in CS & Information Sys
 ## What I do
 
 - **Automation & process improvement** — At Empowered Cooks, I built and maintained n8n workflows connecting Shopify, Customer.io, and Membership.io, and rebuilt a business-critical automation that had stalled under legacy development. At BYU's Office of IT, I wrote a VBA macro that cut a week-long quarterly reporting process down to ~20 minutes, and automated a monthly HR cross-reference that used to be tracked by hand.
-- **Currently:** Research Assistant building an AR application in Unity (BYU Marriott School), and a TA for Introduction to Information Systems.
+- **Currently:** Research Assistant building an AR application in Unity, and a TA for Introduction to Information Systems.
 - **On the side:** small web apps and tools — mostly built for real people to solve a real (if sometimes niche) problem.
 
 ## Toolbox
