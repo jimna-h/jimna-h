@@ -10,7 +10,7 @@ Statistics student at BYU (Data Science emphasis, minors in CS & Information Sys
 
 ## Toolbox
 
-`Python` `SQL` `R` `VBA` `JavaScript` · `n8n` `Zapier` `Postman` · `Git/GitHub` `Tableau` · Workflow Automation · Business Process Improvement · SOP Documentation
+`Python` `SQL` `R` `VBA` `JavaScript` · `n8n` `Zapier` `Postman` · `Git/GitHub` `Tableau`
 
 ## A few things I've built
 
